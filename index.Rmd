@@ -89,7 +89,7 @@ xaringanExtra::use_search(show_icon = TRUE)
 
 - ## Pendahuluan<br>
 - ## Matriks dan Notasinya<br>
-- ## Aplikasi Aljaba - Matriks
+- ## Aplikasi Aljabar - Matriks
 - ## Operasi/pengolahan Dasar Matriks
 
 ]
@@ -117,25 +117,25 @@ class: center, middle, inverse
 
 ## Materi UTS
 - Matriks dan Operator Pengolahnya
-- Matriks-Matriks Spesial
+- Jenis-Jenis Matriks dan Determinan
 - Determinan
-- Rank Matriks
-- Matriks Kebalikan dan Kebalikan Umum
-- Solusi Sistem Persamaan Linier
-- Solusi Sistem Persamaan Linier
+- Invers Matriks
+- Matriks Echelon dan Pangkat Matriks
+- Sistem Persamaan Linear (SPL)
+- Sistem Persamaan Linear (SPL) lanjutan
 
 ]
 
 .pull-right[
 
 ## Materi UAS
-- Ruang Vektor Real
-- Ruang Vektor Real
-- Ruang Euclid
+- Vektor
+- Ruang Vektor
+- Ruang Vektor
 - Transformasi Linier
-- Pendiagonalan Matriks Persegi
-- Bentuk Bilinier dan Bentuk Kuadrat
-- Pendiferensialan Matriks
+- Transformasi Linier
+- Nilai Eigen dan Vektor Eigen
+- Nilai Eigen dan Vektor Eigen
 
 
 ]
