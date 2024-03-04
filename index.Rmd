@@ -196,7 +196,7 @@ class: center, middle, inverse
 ]
 
 - ## $\textbf{A}_{m\times n}$, $[a_{ij}]_{m\times n}$ : matriks berukuran $m \times n$ ( $m$ baris dan $n$ kolom)
-- ## Konversi penulisan nama matriks: .red[HURUF KAPITAL], .red[**tebal**]
+- ## Konvensi penulisan nama matriks: .red[HURUF KAPITAL], .red[**tebal**]
 - ## $a_{ij}$ adalah elemen matriks $\textbf{A}$ pada baris ke- $i$ dan kolom ke- $j$
 
 
