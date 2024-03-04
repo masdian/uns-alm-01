@@ -559,7 +559,7 @@ Hitunglah
 1. $\textbf{A}'\textbf{B}'$
 1. $\textbf{A}'\textbf{B}$
 1. $\textbf{A}\textbf{B}'$
-1. $\textbf{A}'\textbf{B}$
+1. $\textbf{A}'\textbf{C}$
 1. $\textbf{C}\textbf{B}'$
 1. $\textbf{C}\textbf{A}'$
 ]
